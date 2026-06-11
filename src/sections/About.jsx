@@ -8,9 +8,9 @@ const About = () => {
   const text = `Passionate about clean architecture
     I build scalable, high-performance solutions
     from prototype to production`;
-  const aboutText = `Hello, I'm Anas!
+  const aboutText = `Hello, I'm Asim!
 
-I'm a self-taught Frontend developer and a Computer Science student based in Islamabad, Pakistan.
+I'm a self-taught Full stack developer and a Computer Science student based in Lahore, Pakistan.
 
 I specialize in building responsive, user-friendly websites from scratch, transforming ideas into seamless digital experiences. My approach combines technical precision with a strong eye for modern design aesthetics.`;
 
