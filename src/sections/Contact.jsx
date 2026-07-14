@@ -46,7 +46,7 @@ const Contact = () => {
               <h2>E-mail</h2>
               <div className="w-full h-px my-2 bg-white/30" />
               <p className="text-xl tracking-wider lowercase md:text-2xl lg:text-3xl">
-                [EMAIL_ADDRESS]
+                ansaftab68@gmail.com
               </p>
             </div>
             <div className="social-link">
