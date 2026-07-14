@@ -8,7 +8,7 @@ const About = () => {
   const text = `Passionate about clean architecture
     I build scalable, high-performance solutions
     from prototype to production`;
-  const aboutText = `Hello, I'm Asim!
+  const aboutText = `Hello, I'm Ans!
 
 I'm a self-taught Full stack developer and a Computer Science student based in Lahore, Pakistan.
 
@@ -51,7 +51,7 @@ I specialize in building responsive, user-friendly websites from scratch, transf
       <div className="flex flex-col items-center justify-between gap-16 px-10 pb-16 text-xl font-light tracking-wide lg:flex-row md:text-2xl lg:text-3xl text-white/60">
         <img
           ref={imgRef}
-          src="images/Screenshot 2026-06-11 032517.png"
+          src="images/pic.png"
           alt="Anas"
           className="w-md rounded-3xl"
         />

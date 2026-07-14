@@ -152,7 +152,7 @@ export const projects = [
   },
 ];
 export const socials = [
-  { name: "Instagram", href: "https://www.instagram.com/asim._.jatala/" },
+  { name: "Instagram", href: "https://www.instagram.com/_anas.aftab/" },
   { name: "LinkedIn", href: "https://www.linkedin.com/in/muhammad-ans-365715361/" },
   { name: "GitHub", href: "https://github.com/ansaftab-1" },
 ];

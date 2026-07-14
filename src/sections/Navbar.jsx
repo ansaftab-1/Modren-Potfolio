@@ -127,10 +127,10 @@ const Navbar = () => {
               E-mail
             </p>
             <a
-              href="mailto:asim@gmail.com"
+              href="mailto:ansaftab68@gmail.com"
               className="inline-block text-lg md:text-xl tracking-wider lowercase text-white hover:text-gold transition-colors duration-300 relative pb-1 after:content-[''] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-px after:bg-gold hover:after:w-full after:transition-all after:duration-300"
             >
-              asim@gmail.com
+              ansaftab68@gmail.com
             </a>
           </div>
           <div className="font-light">

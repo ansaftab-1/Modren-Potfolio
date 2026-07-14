@@ -170,7 +170,7 @@ const Marquee = ({
           <span
             key={index}
             ref={(el) => (itemsRef.current[index] = el)}
-            className="flex items-center px-16 gap-x-32"
+            className="flex items-center shrink-0 px-16 gap-x-32"
           >
             {text} <Icon icon={icon} className={iconClassName} />
           </span>
